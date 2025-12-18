@@ -24,7 +24,7 @@ st.write(
 # =========================
 @st.cache_resource
 def load_model():
-    checkpoint = torch.load("model/best_model.pt", map_location="cpu")
+    checkpoint = torch.load("best_model.pt", map_location="cpu")
 
     classes = checkpoint["classes"]
     image_size = checkpoint["image_size"]
