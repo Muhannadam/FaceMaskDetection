@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)
-![Streamlit](https://cv-facemaskdetection.streamlit.app/)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 This repository contains a complete, end-to-end **computer vision system** for detecting face mask usage in images. The system is designed to classify faces into three categories:
