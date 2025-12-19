@@ -107,13 +107,3 @@ The trained model has been deployed using **Streamlit** to allow interactive ima
 - Torchvision
 - Pillow
 
----
-
-## Repository Structure
-face-mask-detection/
-│
-├── app.py # Streamlit application
-├── best_model.pt # Trained MobileNetV2 model
-├── requirements.txt
-└── README.md
-
