@@ -13,10 +13,10 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("😷 Face Mask Detection System")
+st.title("Face Mask Detection System")
 st.write(
     "This application classifies images into: "
-    "**With Mask**, **Without Mask**, or **Incorrect Mask**."
+    "**Mask**, **No Mask**, or **Incorrect Mask**."
 )
 
 # =========================
