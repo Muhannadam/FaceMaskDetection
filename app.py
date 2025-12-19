@@ -31,8 +31,8 @@ def anonymize_face_visual(img_pil: Image.Image) -> np.ndarray:
     img_array = np.array(img_pil)
     H, W, C = img_array.shape
     
-    # Increase coverage to 50% to ensure eyes are covered
-    top_h_limit = int(H * 0.50)
+    # Increase coverage to 55% to ensure eyes are covered
+    top_h_limit = int(H * 0.55)
     block_size = 25
     
     ano_img = img_array.copy()
