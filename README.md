@@ -105,5 +105,4 @@ The trained model has been deployed using **Streamlit** to allow interactive ima
 - Streamlit
 - PyTorch
 - Torchvision
-- Pillow
 
