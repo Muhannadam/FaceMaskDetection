@@ -25,6 +25,11 @@ The project demonstrates the full pipeline of **dataset preparation, deep learni
 
 ---
 
+## GUI
+**Application URL:** [Face Mask Detection ](https://cv-facemaskdetection.streamlit.app/)
+
+---
+
 ## Ethical AI & Privacy Protection (Crucial)
 
 This project strictly adheres to **Responsible AI** guidelines. Since the system processes human faces, the following measures were implemented:
